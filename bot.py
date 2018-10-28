@@ -1,0 +1,1 @@
+f= open("bot.bat","r+")
