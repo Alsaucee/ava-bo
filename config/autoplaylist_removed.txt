@@ -1,0 +1,18 @@
+# Entry removed Sat Oct 27 19:04:17 2018
+# Reason: ERROR: This video contains content from WMG, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=siMFORx8uO8
+
+################################
+
+# Entry removed Sun Oct 28 14:45:48 2018
+# Reason: ERROR: This video has been removed by the user
+https://www.youtube.com/watch?v=SShscHBFMS8
+
+################################
+
+# Entry removed Sun Oct 28 18:34:31 2018
+# Reason: ERROR: This video has been removed for violating YouTube's Terms of Service.
+https://www.youtube.com/watch?v=Ikq9XuWxPAY
+
+################################
+
