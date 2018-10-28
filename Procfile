@@ -1,1 +1,1 @@
-worker: start bot.cmd
+worker: python run.py
